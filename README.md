@@ -7,7 +7,6 @@ Hola, soy Fredy Borda 👋
 💻 Intereses:
 
 Desarrollo Backend
-
 Desarrollo Frontend
 
 Bases de Datos
