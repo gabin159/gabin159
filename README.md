@@ -1,29 +1,26 @@
+# Hola, soy Fredy Borda 👋
 
-Hola, soy Fredy Borda 👋
-/🎓 Estudiante de Ingeniería de Sistemas (8° semestre)
+🎓 Estudiante de Ingeniería de Sistemas (8° semestre)
 
+## 🚀 Intereses
+- Desarrollo Backend
+- Desarrollo Frontend
+- Bases de Datos
+- Arquitectura de Software
+- Redes
 
-💻 Intereses:
+## 🛠 Tecnologías
+- Python
+- Java
+- JavaScript
+- React
+- PostgreSQL
 
-Desarrollo Backend
-/Desarrollo Frontend
-/Bases de Datos
-/Arquitectura de Software
-/Redes de Conectividad
+## 📚 Actualmente aprendiendo
+- Spring Boot
+- APIs REST
+- Docker
+- Git y GitHub
 
-🛠 Tecnologías:
-
-Python
-/Java
-/React
-/JavaScript
-/PostgreSQL
-
-
-📫 Contacto:
-
-Correo: fredy.borda22@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabin159&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabin159&layout=compact&theme=dark)
+## 📫 Contacto
+📧 fredy.borda22@gmail.com
