@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**gabin159/gabin159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Fredy Borda 👋
+🎓 Estudiante de Ingeniería de Sistemas (8° semestre)
 
-Here are some ideas to get you started:
+💻 Intereses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo Backend
+Desarrollo Frontend
+Bases de Datos
+Arquitectura de Software
+Redes de Conectividad
+🛠 Tecnologías:
+
+Python
+Java
+React
+JavaScript
+PostgreSQL
+📫 Contacto:
+
+Correo: fredy.borda22@gmail.com
