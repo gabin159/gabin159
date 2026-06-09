@@ -24,3 +24,5 @@
 
 ## 📫 Contacto
 📧 fredy.borda22@gmail.com
+##
+⭐ Siempre dispuesto a aprender nuevas tecnologías y asumir nuevos desafíos.
