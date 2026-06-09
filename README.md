@@ -23,3 +23,5 @@ Python
 📫 Contacto:
 
 Correo: fredy.borda22@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabin159&show_icons=true)
