@@ -15,12 +15,12 @@
 - JavaScript
 - React
 - PostgreSQL
+- Git y GitHub
 
 ## 📚 Actualmente aprendiendo
 - Spring Boot
 - APIs REST
 - Docker
-- Git y GitHub
 
 ## 📫 Contacto
 📧 fredy.borda22@gmail.com
