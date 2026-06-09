@@ -1,5 +1,6 @@
 
 Hola, soy Fredy Borda 👋
+
 🎓 Estudiante de Ingeniería de Sistemas (8° semestre)
 
 💻 Intereses:
