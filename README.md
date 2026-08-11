@@ -16,9 +16,8 @@
 - React
 - PostgreSQL
 - Git y GitHub
-
-## 📚 Actualmente aprendiendo
 - Spring Boot
+## 📚 Actualmente aprendiendo
 - APIs REST
 - Docker
 
