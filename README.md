@@ -12,8 +12,6 @@
 ## 🛠 Tecnologías
 - Python
 - Java
-- JavaScript
-- React
 - PostgreSQL
 - Git y GitHub
 - Spring Boot
